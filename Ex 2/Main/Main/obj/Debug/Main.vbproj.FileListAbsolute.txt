@@ -1,0 +1,9 @@
+C:\java\SEMESTER 7\Ex 2\Main\Main\bin\Debug\Main.dll
+C:\java\SEMESTER 7\Ex 2\Main\Main\bin\Debug\Main.pdb
+C:\java\SEMESTER 7\Ex 2\Main\Main\bin\Debug\Main.xml
+C:\java\SEMESTER 7\Ex 2\Main\Main\obj\Debug\Main.Resources.resources
+C:\java\SEMESTER 7\Ex 2\Main\Main\obj\Debug\Main.UserControl1.resources
+C:\java\SEMESTER 7\Ex 2\Main\Main\obj\Debug\Main.vbproj.GenerateResource.Cache
+C:\java\SEMESTER 7\Ex 2\Main\Main\obj\Debug\Main.dll
+C:\java\SEMESTER 7\Ex 2\Main\Main\obj\Debug\Main.xml
+C:\java\SEMESTER 7\Ex 2\Main\Main\obj\Debug\Main.pdb

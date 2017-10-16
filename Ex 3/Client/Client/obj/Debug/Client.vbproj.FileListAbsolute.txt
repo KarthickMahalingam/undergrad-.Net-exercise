@@ -1,0 +1,5 @@
+C:\java\SEMESTER 7\Ex 3\Client\Client\obj\Debug\Client.vbprojResolveAssemblyReference.cache
+C:\java\SEMESTER 7\Ex 3\Client\Client\obj\Debug\Client.Form1.resources
+C:\java\SEMESTER 7\Ex 3\Client\Client\obj\Debug\Client.Resources.resources
+C:\java\SEMESTER 7\Ex 3\Client\Client\obj\Debug\Client.vbproj.GenerateResource.Cache
+C:\java\SEMESTER 7\Ex 3\Client\Client\bin\Debug\Client.exe.config

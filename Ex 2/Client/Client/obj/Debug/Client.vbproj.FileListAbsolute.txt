@@ -1,0 +1,13 @@
+C:\java\SEMESTER 7\Ex 2\Client\Client\bin\Debug\Client.exe.config
+C:\java\SEMESTER 7\Ex 2\Client\Client\bin\Debug\Client.exe
+C:\java\SEMESTER 7\Ex 2\Client\Client\bin\Debug\Client.pdb
+C:\java\SEMESTER 7\Ex 2\Client\Client\bin\Debug\Client.xml
+C:\java\SEMESTER 7\Ex 2\Client\Client\bin\Debug\Main.dll
+C:\java\SEMESTER 7\Ex 2\Client\Client\bin\Debug\Main.pdb
+C:\java\SEMESTER 7\Ex 2\Client\Client\bin\Debug\Main.xml
+C:\java\SEMESTER 7\Ex 2\Client\Client\obj\Debug\Client.Form1.resources
+C:\java\SEMESTER 7\Ex 2\Client\Client\obj\Debug\Client.Resources.resources
+C:\java\SEMESTER 7\Ex 2\Client\Client\obj\Debug\Client.vbproj.GenerateResource.Cache
+C:\java\SEMESTER 7\Ex 2\Client\Client\obj\Debug\Client.exe
+C:\java\SEMESTER 7\Ex 2\Client\Client\obj\Debug\Client.xml
+C:\java\SEMESTER 7\Ex 2\Client\Client\obj\Debug\Client.pdb
